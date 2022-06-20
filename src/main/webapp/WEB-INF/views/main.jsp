@@ -12,6 +12,9 @@
 </head>
 <body>
 	<p></p>
+	<h3>commit 한 내용을 취소하고 싶을 경우</h3>
+	<p1>1. 브렌치 초기화</p1>
+	<p>2. reverse commit</p>
 	
 </body>
 <script>
